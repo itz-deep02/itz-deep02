@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepesh Rathore(Ninja)</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itz-deep02&label=Profile%20views&color=0e75b6&style=flat" alt="itz-deep02" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itz-deep02" alt="itz-deep02" /></a> </p>
 
@@ -31,3 +30,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itz-deep02&show_icons=true&locale=en" alt="itz-deep02" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itz-deep02&" alt="itz-deep02" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itz-deep02&label=Profile%20views&color=0e75b6&style=flat" alt="itz-deep02" /> </p>
