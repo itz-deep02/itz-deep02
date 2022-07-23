@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Netflix Clone**
 
-- 🌱 I’m currently learning **Full Stack Developer**
+- 🌱 I’m currently learning **Full Stack Developement**
 
 - 💬 Ask me about **Java, JavaScript & React**
 
