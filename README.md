@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/itz_deepesh" target="blank"><img src="https://img.shields.io/twitter/follow/itz_deepesh?logo=twitter&style=for-the-badge" alt="itz_deepesh" /></a> </p>
 
-- 🔭 I’m currently working on **Netflix Clone**
+- 🔭 I’m currently working on **Med Locator**
 
 - 🌱 I’m currently learning **Full Stack Developement**
 
